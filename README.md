@@ -23,5 +23,6 @@ source ~/.bash_profile
  
 
 In order not to do this every time, you need to add the line:
+
 export PATH=~/.local/bin:$PATH
  
